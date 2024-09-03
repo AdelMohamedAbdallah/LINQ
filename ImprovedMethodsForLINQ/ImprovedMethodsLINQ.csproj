@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Improved Methods LINQ</Title>
+    <Authors>Adel Mohamed Abdallah</Authors>
+    <Description>This Package is a group of method that work to improve queries. Among these method is "TakeAnyElementOrGroup". This methodis used to take an element or a group of elements from a data set. Also, the method "TakeAnyElementOrGroupBy". This method is used to take an element or a group of elements from a data set, but under a specific condition. 
+Also, the "SkipAnyElementOrGroup" method is used to skip an element or a group of elements from a set of data. Also, the "SkipAnyElementOrGroupBy" method is used to skip an element or a group of elements from a set of data, but under a specific condition.</Description>
+    <PackAsTool>False</PackAsTool>
+    <PackageId>ImprovedMethodsLINQ</PackageId>
+    <Version>1.0.0</Version>
+    <Company>Adel Mohamed Abdallah</Company>
+    <Product>Improved Methods LINQ</Product>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <PackageOutputPath>bin\Release\</PackageOutputPath>
+  </PropertyGroup>
+
+</Project>
